@@ -5,10 +5,10 @@
 ## Models
 
 * Generator
-<img src="assets/generator.png">
+<img height=750 width=280 src="assets/generator.png">
 
 * Discriminator
-<img src="assets/discriminator.png">
+<img height=750 width=280 src="assets/discriminator.png">
 
 ## Demo
-<img src="assets/demo.mp4">
+![](https://user-images.githubusercontent.com/41967348/126940646-214efedf-f5b6-405d-bbcc-1152896f7cab.mp4)
